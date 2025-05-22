@@ -11,9 +11,9 @@
 		"nodejs_compat"
 	],
 	"vars": {
-		"GITHUB_CLIENT_ID": "Iv23liyf9K1HaIjiVu02",
-		"GITHUB_CLIENT_SECRET": "1be2394ec4cf71e3e43177495cb792611db369d8",
-		"COOKIE_ENCRYPTION_KEY": "b4a2afaaf8c8ebac3939fb581c9066204841da7b566043519a558d8e4e42aaec"
+		"GITHUB_CLIENT_ID": "<>",
+		"GITHUB_CLIENT_SECRET": "<>",
+		"COOKIE_ENCRYPTION_KEY": "<>"
 	},
 	"migrations": [
 		{
