@@ -11,9 +11,9 @@
 		"nodejs_compat"
 	],
 	"vars": {
-		"GITHUB_CLIENT_ID": "1234567890",
-		"GITHUB_CLIENT_SECRET": "1234567890",
-		"COOKIE_ENCRYPTION_KEY": "1234567890"
+		"GITHUB_CLIENT_ID": "Iv23liyf9K1HaIjiVu02",
+		"GITHUB_CLIENT_SECRET": "1be2394ec4cf71e3e43177495cb792611db369d8",
+		"COOKIE_ENCRYPTION_KEY": "b4a2afaaf8c8ebac3939fb581c9066204841da7b566043519a558d8e4e42aaec"
 	},
 	"migrations": [
 		{
@@ -34,7 +34,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "OAUTH_KV",
-			"id": "<Add-KV-ID>"
+			"id": "684d7048d9e24f499c3f367ffbcbf088"
 		}
 	],
 	"ai": {
